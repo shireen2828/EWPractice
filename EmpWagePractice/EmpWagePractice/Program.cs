@@ -14,6 +14,7 @@ namespace EmpWagePractice
             else
                 Console.WriteLine("Employee is absent");
             Console.ReadKey();
+            UC2_PartTimeEmpWage.Empwage();
         }
     }
 }
